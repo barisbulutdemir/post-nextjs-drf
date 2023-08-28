@@ -1,35 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+I use DRF ,httponly ,Nextjs, AWS SES, and Shadcn.
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# post-nextjs-drf
+<img width="1370" alt="Ekran Resmi 2023-08-28 21 45 28" src="https://github.com/barisbulutdemir/post-nextjs-drf/assets/24826279/d5d2cb9a-e99e-43b7-a9d1-385916883a56">
+<img width="1311" alt="Ekran Resmi 2023-08-28 21 45 42" src="https://github.com/barisbulutdemir/post-nextjs-drf/assets/24826279/4be7ca93-491c-434d-864c-c7a3b354f797">
+<img width="1359" alt="Ekran Resmi 2023-08-28 21 46 08" src="https://github.com/barisbulutdemir/post-nextjs-drf/assets/24826279/707aaf5c-f72b-4747-84c6-6f82a12b62ea">
+<img width="1336" alt="Ekran Resmi 2023-08-28 21 46 17" src="https://github.com/barisbulutdemir/post-nextjs-drf/assets/24826279/ccb5a80e-d7d9-4bcc-b0be-4d0c5dfcf428">
+<img width="1348" alt="Ekran Resmi 2023-08-28 21 46 35" src="https://github.com/barisbulutdemir/post-nextjs-drf/assets/24826279/6ddd3eff-1560-429c-bb2d-941077740bf9">
